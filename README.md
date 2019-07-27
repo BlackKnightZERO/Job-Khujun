@@ -1,4 +1,5 @@
-A Job Searching Web Application with Laravel Bootstrap
+A Job Searching Web Application with Laravel Bootstrap.
+
 Screenshots:
 
 ![index1](https://user-images.githubusercontent.com/29349064/61996835-09205e80-b0bb-11e9-9d8f-8ae8bef51393.jpg)
